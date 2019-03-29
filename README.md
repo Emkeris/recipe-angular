@@ -1,3 +1,5 @@
+This is Recipe app whitch will let you to log in and add, edit and remove added recipes
+
 # RecipeAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
